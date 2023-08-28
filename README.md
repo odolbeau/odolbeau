@@ -11,49 +11,14 @@ I'm Olivier!
 - [odolbeau/slides](https://github.com/odolbeau/slides) - Some slides
 - [odolbeau/symfony_dic_bug](https://github.com/odolbeau/symfony_dic_bug) - 
 
-#### ✍  Latest contributions
+#### 🔨 My recent Pull Requests
 
 
-Name: odolbeau/odolbeau.fr
-Description: odolbeau&#39;s website.
-URL: https://github.com/odolbeau/odolbeau.fr)
-Occurred: 3 days ago
-
-Name: Orbitale/www.orbitale.io
-Description: Orbitale.io website
-URL: https://github.com/Orbitale/www.orbitale.io)
-Occurred: 2 weeks ago
-
-Name: odolbeau/dot-files
-Description: My dot-files...
-URL: https://github.com/odolbeau/dot-files)
-Occurred: 2 months ago
-
-Name: odolbeau/vim-config
-Description: Config vim
-URL: https://github.com/odolbeau/vim-config)
-Occurred: 3 months ago
-
-Name: odolbeau/directory-lister
-Description: Simple &amp; ugly script to list files in a directory
-URL: https://github.com/odolbeau/directory-lister)
-Occurred: 4 months ago
-
-Name: odolbeau/dce
-Description: Docker Compose Extended
-URL: https://github.com/odolbeau/dce)
-Occurred: 4 months ago
-
-Name: odolbeau/geojson-manipulator
-Description: Basic manipulation operation on a geojson file in order to update data file for umap
-URL: https://github.com/odolbeau/geojson-manipulator)
-Occurred: 9 months ago
-
-Name: symfony/maker-bundle
-Description: Symfony Maker Bundle
-URL: https://github.com/symfony/maker-bundle)
-Occurred: 9 months ago
-
+- [Update 2023-08-10-autisme-masking-et-experience-personnelle.md](https://github.com/Orbitale/www.orbitale.io/pull/14) on [Orbitale/www.orbitale.io](https://github.com/Orbitale/www.orbitale.io) (2 weeks ago)
+- [[make:registration] Make router optional in MakeRegistrationForm constructor](https://github.com/symfony/maker-bundle/pull/1227) on [symfony/maker-bundle](https://github.com/symfony/maker-bundle) (10 months ago)
+- [Fix script path in README](https://github.com/laurent22/joplin/pull/6498) on [laurent22/joplin](https://github.com/laurent22/joplin) (1 year ago)
+- [Prepare 2.4.1](https://github.com/swarrot/SwarrotBundle/pull/221) on [swarrot/SwarrotBundle](https://github.com/swarrot/SwarrotBundle) (1 year ago)
+- [Prepare 3.6.1](https://github.com/odolbeau/phone-number-bundle/pull/100) on [odolbeau/phone-number-bundle](https://github.com/odolbeau/phone-number-bundle) (2 years ago)
 
 #### 🤙  Let's get in touch!
 
