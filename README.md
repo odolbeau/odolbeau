@@ -1,7 +1,5 @@
 ### Hi, I'm Olivier 👋
 
-I'm Olivier!
-
 * 📍 I live in Burgundy, France
 * 💻 Currently freelancer (contact me if interested)
 * ⚒️  PHP / Symfony expert
