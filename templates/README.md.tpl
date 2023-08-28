@@ -8,14 +8,11 @@ I'm Olivier!
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### ✍  Latest contributions
+#### 🔨 My recent Pull Requests
 
-{{range recentContributions 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
-{{end}}
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
 #### 🤙  Let's get in touch!
 
